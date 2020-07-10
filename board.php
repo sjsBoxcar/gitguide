@@ -1,4 +1,4 @@
-<?
+<?php
 
 # Board.php 파일
 

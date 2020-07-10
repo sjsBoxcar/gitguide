@@ -1,4 +1,4 @@
-<?
+<?php
 
 # Login.php 파일
 
