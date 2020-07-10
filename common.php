@@ -11,7 +11,7 @@ function forLogin()
 function forBoard()
 {
     $fa = 1;
-    $fb = 4;
+    $fb = forLogin();   # -- forLogin 함수 값 사용
     $fd = 9;    # -- 추가 충돌 병합 위함
     $fc = $fa + $fb;
     return $fc;
